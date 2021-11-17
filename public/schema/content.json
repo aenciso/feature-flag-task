@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "label": "GENERAL",
+    "parentId": 0
+  },
+  {
+    "id": 2,
+    "label": "CASE MANAGEMENT",
+    "parentId": 1,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 3,
+    "label": "NOTIFICATIONS",
+    "parentId": 1,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 4,
+    "label": "ALERTS",
+    "parentId": 0
+  },
+  {
+    "id": 5,
+    "label": "ALERT MANAGER",
+    "parentId": 4,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 6,
+    "label": "ALERT RULES",
+    "parentId": 4,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 7,
+    "label": "SETTINGS",
+    "parentId": 0
+  },
+  {
+    "id": 8,
+    "label": "AUDIT LOG",
+    "parentId": 7,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 9,
+    "label": "USERS",
+    "parentId": 7,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 10,
+    "label": "USERS ADD",
+    "parentId": 9,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 11,
+    "label": "USERS DELETE",
+    "parentId": 9,
+    "itemType": "switch"
+  },
+  {
+    "id": 12,
+    "label": "USERS EDIT",
+    "parentId": 9,
+    "itemType": "switch",
+    "checked": true
+  },
+  {
+    "id": 13,
+    "label": "MAX USERS",
+    "parentId": 9,
+    "itemType": "switch",
+    "checked": true
+  }
+]
